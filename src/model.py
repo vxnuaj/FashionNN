@@ -119,9 +119,11 @@ if __name__ == "__main__":
 
     model(X_train, Y_train, .1, 1000, 'models/fashionNN.pkl')
 
-'''
-Qs and takeaways
+    ''''
+    Reflection
 
-- why does the calculation of dz2 work with one hot encoded vectors?
-
-'''
+    - Need to learn about softmax and ReLU implementations, rather than only sigmoid
+    - FIO how to use categorical cross entropy
+    - Need to learn the derivations or get an intuition of them for Softmax and ReLU implementations alongside cat. cross entropy.
+    
+    '''
