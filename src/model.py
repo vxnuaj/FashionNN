@@ -2,7 +2,7 @@
 
 This model will be able to classify images in the Fashion MNIST dataset.
 
-To start, it will contain 2 layers, 1 hidden and 1 output. The hidden layer will have 200 neurons, the output will have 10.
+To start, it will contain 2 layers, 1 hidden and 1 output. The hidden layer will have 32 neurons, the output will have 10.
 
 '''
 
